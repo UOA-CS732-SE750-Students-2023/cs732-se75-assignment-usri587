@@ -1,5 +1,5 @@
 Hi All!! Welcome to my tech demo session.
-I have demonstrated a basic register/login application with angular rotuing feature and Firebase for authentication purpose.
+I have demonstrated a basic register/login application with angular routing feature and Firebase for authentication purpose.
 
 Angular routing - As users perform application tasks, they need to move between the different views that you have defined. To handle the navigation from one view to the next, you use the Angular Router . The Router enables navigation by interpreting a browser URL as an instruction to change the view.
 
